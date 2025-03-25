@@ -1,4 +1,5 @@
 #include "football.h"
+#include <stdio.h>
 
 int count_combinations(int points) {
     int td_8, td_7, td_6, fg, safety;

@@ -1,4 +1,5 @@
 #include "temperature.h"
+#include <stdio.h>
 
 float celsius_to_fahrenheit(float celsius) { // initialize function to convert celsius to fahrenheit
     return (9.0 / 5) * celsius + 32; // return value in fahrenheit
