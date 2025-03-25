@@ -1,4 +1,6 @@
 #include "temperature.h"
+#include <stdio.h>
+#include <string.h>
 
 int main() { // initialize main function
     float tempValue; // initialize tempValue as float
