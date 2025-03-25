@@ -55,9 +55,9 @@ float celsius_to_kelvin(float celsius);
 /**
  * @brief Convert temperature in Kelvin to Celsius
  * 
- * @param kelvin
+ * @param celsius
  * @return float
  */
-float kelvin_to_celsius(float kelvin);
+float kelvin_to_celsius(float celsius);
 
 #endif /* __REPORT_H__ */

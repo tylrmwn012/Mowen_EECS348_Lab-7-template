@@ -13,8 +13,8 @@ float celsius_to_kelvin(float celsius) { // initialize function to convert celsi
     return celsius + 273.15; // return value in kelvin
 } // close function
 
-float kelvin_to_celsius(float kelvin) { // initialize function to convert kelvin to celsius
-    return kelvin - 273.15; // return value in celsius
+float kelvin_to_celsius(float celsius) { // initialize function to convert kelvin to celsius
+    return celsius - 273.15; // return value in celsius
 } // close function
 
 float kelvin_to_fahrenheit(float kelvin) { // initialize function to convert kelvin to fahrenheit
